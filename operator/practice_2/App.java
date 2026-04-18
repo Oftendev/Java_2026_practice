@@ -1,9 +1,5 @@
 package operator.practice_2;
 
-/**
- * instanceof – проверяет, является ли объект экземпляром класса или его подкласса.
- * Для null всегда false.
- */
 class Animal { }
 class Dog extends Animal { }
 
